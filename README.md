@@ -1,1 +1,1 @@
-Smart Task Planner is a simple web application that allows users to organize, manage, and track tasks efficiently. Users can add tasks, view them clearly, and interact with the planner through a user-friendly interface.
+Smart Task Planner is a simple web application that allows users to organize and manage tasks.
